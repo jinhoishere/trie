@@ -3,7 +3,7 @@
 - The Trie class should use a seperate Trie.h and Trie.cpp file.
 - The autocomplete program should be in a file named project5.cpp.
 - Please zip your entire project directory into a single file called Project5.zip.
-- Your trie will be evaluated using both your autocomplete program, and with a test harness, so be sure that your functions conform completely to the specifications in this assignment.
+- Your trie will be evaluated using **both** your autocomplete program, **and** with a test harness, so be sure that your functions conform completely to the specifications in this assignment.
 
 This project is worth 50 points, distributed as follows:
 | Task                                                                                                                          | Points |
